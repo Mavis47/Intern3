@@ -1,0 +1,11 @@
+.ul-2{
+    margin: 69px;
+}
+
+.container-footer{
+    height: 147px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #22232D;
+}

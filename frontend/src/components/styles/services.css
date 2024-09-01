@@ -1,0 +1,62 @@
+.services{
+    text-align: center;
+    height: 200px;
+    padding-top: 169px;
+    font-size: large;
+    font-weight: 600;
+}
+
+.our-service{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.cards{
+    height: 2264px;
+    width: 69%;
+}
+
+.card-section-one{
+    display: flex;
+}
+
+#card-two{
+    height: 252px; 
+}
+
+#card-one{
+    height: 252px;
+}
+
+#card-two-2{
+    height: 279px;
+}
+
+#card-one-2{
+    height: 395px;
+}
+
+#card-two-3{
+    margin-top: 139px;
+    height: 343px;
+}
+
+#card-one-5{
+    width: 453px;
+    height: 436px;
+}
+
+.border-bottom{
+    height: 89px;
+    border-bottom: 1px solid;
+    width: 418px;
+    margin-left: 19px;
+    padding: 20px 89px;
+    font-size: larger;
+    font-weight: 600;
+}
+
+.text-in-para{
+    margin: 20px;
+}

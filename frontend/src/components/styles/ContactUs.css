@@ -1,0 +1,53 @@
+.contact-container{
+    display: flex;
+    height: 379px;
+    margin-top: 680px;
+}
+
+.contact-header{
+    padding-left: 117px;
+    font-size: xxx-large;
+    font-weight: 500;
+    margin-top: 66px;
+}
+
+.paragraph{
+    padding-left: 121px;
+    font-size: large;
+    margin-top: 15px;
+}
+
+.contact-us{
+    width: 50%;
+}
+
+.underline{
+    display: flex;
+    gap: 61px;
+    text-decoration: none;
+    flex-direction: column;
+    margin-left: 151px;
+    gap: 14px;
+    margin-top: 32px;
+}
+
+.underlined-2{
+    margin: 29px;
+    gap: 16px;
+    margin-left: 154px;
+}
+
+.btn{
+    width: 30px;
+    background: yellow;
+    height: 29px;
+    border-radius: 3px;
+}
+
+.image{
+    width: 50%;
+}
+
+.pic_image{
+    width: 513px;
+}

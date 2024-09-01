@@ -1,0 +1,50 @@
+.main-box{
+    height: 600px;
+    background: aquamarine;
+    display: flex;
+
+}
+
+.image-division{
+    width: 552px;
+    margin: 40px;
+    position: absolute;
+    height: 526px;
+    margin-left: 138px;
+    border-radius: 20px;
+    border-left: 10px solid orange;
+    border-bottom: 10px solid orange;
+}
+
+.text-box{
+    width: 50%;
+    margin-left: 800px;
+}
+
+.choose-text{
+    margin: 50px;
+    color: orange;
+    font-size: medium;
+    font-weight: 600;
+}
+
+.expertise{
+    margin: -44px;
+    text-align: start;
+    margin-left: 47px;
+    font-size: xx-large;
+    font-weight: 700;
+}
+
+.whole-para{
+    margin: 48px;
+    margin-top: 66px;
+}
+
+.pic4{
+    width: 552px;
+    object-fit: cover;
+    height: 545px;
+    margin-top: -28px;
+    border-radius: 21px;
+}

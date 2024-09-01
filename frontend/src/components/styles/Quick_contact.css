@@ -1,0 +1,67 @@
+.header_and_text{
+    height: 340px;
+    background: #22232D;
+    width: 58%;
+}
+
+.Quick-header{
+    padding: 81px;
+    font-size: larger;
+    font-weight: 500;
+    color: orange;
+}
+
+.quick-text{
+    margin-top: -70px;
+    margin-left: 83px;
+}
+
+.Quick-ul{
+    flex-direction: column;
+    gap: 19px;
+    margin-left: 98px;
+    margin-top: 31px;
+}
+
+.container-contact{
+    display: flex;
+    border-bottom: 10px solid black;
+    background-color: #22232D;
+}
+
+#con{
+    margin-top: 0;
+}
+
+.card{
+    background: #22232D;
+    height: 243px;
+    width: 641px;
+    border-radius: 19px;
+    margin: 46px;
+}
+
+.hours{
+    margin-top: 36px;
+    margin-left: 29px;
+    color: white;
+    font-size: larger;
+    font-weight: 700;
+}
+
+.spans{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 29px;
+    margin-top: 21px;
+    width: 550px;
+}
+
+.schedule{
+    width: 559px;
+    margin: 20px;
+    height: 37px;
+    background: orange;
+    border-radius: 5px;
+}

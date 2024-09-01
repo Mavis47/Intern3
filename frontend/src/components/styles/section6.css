@@ -1,0 +1,29 @@
+.section{
+    height: 325px;
+    background: orange;
+    margin-top: 35px;
+}
+
+.talk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 192px;
+    font-size: xxx-large;
+}
+
+.contact-btn{
+    font-size: x-large;
+    border: 1px solid white;
+    width: 171px;
+    height: 62px;
+    margin-left: 661px;
+    border-radius: 8px;
+    background: white;
+}
+
+h3{
+    margin: 49px;
+    margin-left: 532px;
+    font-size: large;
+}

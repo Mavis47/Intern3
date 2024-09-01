@@ -1,0 +1,49 @@
+.header-two{
+    background: rgb(255, 255, 255);
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+img{
+    width: 310px;
+    padding-top: 26px;
+}
+
+.img-one{
+    position: relative;
+    margin-left: 143px;
+    margin-top: 21px;
+}
+
+nav{
+    width: 57%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+ul{
+    display: flex;
+    gap: 61px;
+    text-decoration: none;
+    margin-right: 72px;
+}
+
+li{
+    font-size: medium;
+    list-style: none;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+.call-button{
+    height: 51px;
+    width: 161px;
+    border-radius: 5px;
+    background: #252323;
+    color: aliceblue;
+    font-weight: 700;
+}

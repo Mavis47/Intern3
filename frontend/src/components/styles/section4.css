@@ -1,0 +1,29 @@
+.section4-container{
+    height: 312px;
+    display: flex;
+}
+
+.card-1{
+    height: 310px;
+    background-color: aliceblue;
+    width: 654px;
+    margin: 52px;
+    margin-left: 131px;
+    border-radius: 19px;
+}
+
+.card2{
+    height: 337px;
+    background: aliceblue;
+    margin-top: 27px;
+    width: 500px;
+    border-radius: 21px;
+}
+
+.pic{
+    width: 634px;
+    object-fit: cover;
+    height: 276px;
+    margin: 11px;
+    border-radius: 9px;
+}

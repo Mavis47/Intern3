@@ -1,0 +1,47 @@
+.section2-container{
+    height: 370px;
+    display: flex;
+    justify-content: space-evenly;
+    background: #28242d;
+}
+
+.card-one{
+    background: white;
+    height: 300px;
+    width: 600px;
+    padding-top: 20px;
+    border-radius: 21px;
+    margin: 35px;
+    border-bottom: 7px solid orange;
+}
+
+.card-two{
+    background: white;
+    height: 300px;
+    width: 600px;
+    padding-top: 20px;
+    border-radius: 21px;
+    margin: 35px;
+    border-bottom: 7px solid orange;
+}
+
+.Story{
+    padding: -7px;
+    font-size: 25px;
+    margin: 30px;
+    font-weight: 700;
+}
+
+#text{
+    width: 95%;
+    margin-left: 29px;
+    font-weight: 100;
+    margin-top: -21px;
+}
+
+.more{
+    margin: 20px;
+    margin-left: 35px;
+    font-weight: 500;
+    font-size: medium;
+}

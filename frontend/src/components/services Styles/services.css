@@ -1,0 +1,188 @@
+.name-of-service{
+    padding-left: 223px;
+    height: 67px;
+    font-size: xx-large;
+    background: whitesmoke;
+    font-weight: 700;
+}
+
+.image3{
+    object-fit: cover;
+    width: 100%;
+    padding-top: 0;
+}
+
+.whole-container{
+    display: flex;
+}
+
+.two-divison{
+    margin: 53px;
+    width: 100vw;
+    margin-left: 140px;
+    height: 707px;
+    border-radius: 20px;
+}
+
+.image4{
+    padding-top: 0;
+    width: 556px;
+    height: 707px;
+    border-radius: 22px;
+}
+
+.tailor{
+    margin-top: 61px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.simplify{
+    padding-top: 23px;
+    font-size: 34px;
+    font-weight: 700;
+}
+
+.finance{
+    margin-top: 24px;
+    font-size: 17px;
+    font-weight: 100;
+}
+
+.summary{
+    width: 53vw;
+    height: 22vw;
+    margin-top: 23px;
+    display: flex;
+}
+
+.container-one{
+    width: 50%;
+}
+
+.downsize{
+    margin-top: 46px;
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.extends{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.p1{
+    margin-top: 18px;
+    font-weight: 100;
+}
+
+.p2{
+    margin-top: 18px;
+    font-weight: 100;
+}
+
+.section-One{
+    height: 200px;
+    background: #2d2f35;
+    width: 1059px;
+    margin-left: 229px;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    align-items: center;
+    border-radius: 10px;
+}
+
+.estimate{
+    font-size: xx-large;
+    font-weight: 800;
+    color: white;
+}
+
+.lorem{
+    color: white;
+    font-size: 18px;
+}
+.button{
+    width: 287px;
+    text-align: center;
+    height: 58px;
+    background: orange;
+    border-radius: 5px;
+}
+
+.interest-btn{
+    padding: 18px;
+    font-size: small;
+    font-weight: 600;
+}
+
+.section-downwards{
+    text-align: center;
+    margin: 100px;
+}
+
+.lendevi{
+    font-weight: 700;
+}
+
+.heading-resource{
+    font-size: xx-large;
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.paragraph-text{
+    margin-top: 21px;
+    font-weight: 100;
+    font-size: 23px;
+}
+
+.container-card{
+    width: 100%;
+    background: aquamarine;
+    height: 318px;
+    display: flex;
+}
+
+.card1{
+    background: red;
+    width: 351px;
+    height: 252px;
+    margin: 72px;
+    margin-left: 130px;
+    border-radius: 20px;
+}
+
+.card-container-one{
+    width: 290px;
+    background: green;
+    height: 141px;
+    margin-top: 172px;
+    margin-left: 8px;
+    border-radius: 10px;
+    position: absolute;
+    margin-top: -68px;
+    border-bottom: 6px solid orange
+}
+
+.house{
+    text-align: center;
+    padding-top: 25px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.para-ut{
+    margin: 17px;
+}
+
+.card-image{
+    padding-top: 0;
+    height: 251px;
+    border-radius: 19px;
+}
+
+.card1{
+    position: relative;
+}
